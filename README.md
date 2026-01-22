@@ -1,9 +1,9 @@
 # ATÜ Ders Yönetim Sistemi
 
-Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi için geliştirilmiş, tam kapsamlı ders ve materyal yönetim sistemi. Eğitim görevlilerinin ders materyalleri yüklemesine, öğrencilerin erişmesine ve yöneticilerin sistemi yönetmesine olanak tanır.Bu Proje CLAUDECODE ile yapılmıştır.Javascript ve Html bilgimle bu kadar detaylı bir proje geliştirmem mümkün değildi fakat ClaudeCode ile yaparak teknik kısımlarda hataları anlayabilirdim.Bu yüzden claude code ile kodladım ve projemi oluşturdum.
+Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi için geliştirilmiş, tam kapsamlı ders ve materyal yönetim sistemi. Eğitim görevlilerinin ders materyalleri yüklemesine, öğrencilerin erişmesine ve yöneticilerin sistemi yönetmesine olanak tanır.Bu Proje Claude Code ile yapılmıştır.Javascript ve Html bilgimle bu kadar detaylı bir proje geliştirmem mümkün değildi fakat ClaudeCode ile yaparak teknik kısımlarda hataları anlayabilirdim.Bu yüzden claude code ile kodladım ve projemi oluşturdum.
 
 ## 🚀 Kurulum ve Başlatma
-
+Kurulumu ve Projemi bu youtube videosunda anlattım.
 ...
 
 https://youtu.be/qq9lJYE4PZE?si=Yf9_iuqc59oQEHlJ
